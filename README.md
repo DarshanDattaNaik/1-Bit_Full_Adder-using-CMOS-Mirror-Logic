@@ -1,30 +1,25 @@
 # 1-Bit_Full_Adder-using-CMOS-Mirror-Logic
-1)[Abstract](Abstract)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1.[Abstract](Abstract)
+2.[Reference Circuit Details](Reference Circuit Details)
+3.[Block Diagram](Block Diagram)
+4.[Reference Circuit Diagram](Reference Circuit Diagram)
+5.[Reference Circuit Waveforms](Reference Circuit Waveforms)
+6.[Tools used](Tools used)
+7.[Simulation in Synopsys](Simulation in Synopsys)
+8.[Carry Block](Carry Block)
+9.[Sum Block](Sum Block)
+10.[Full Adder Implementation](Full Adder Implementation)
+11.[Parameters set for Voltage Input A](Parameters set for Voltage Input A)
+12.[Parameters set for Voltage Input B](Parameters set for Voltage Input B)
+13.[Parameters set for Voltage Input C](Parameters set for Voltage Input C)
+14.[Parameters set for Voltage Input Vdd](Parameters set for Voltage Input Vdd)
+15.[Transient Settings](Transient Settings)
+16.[Output Waveform](Output Waveform)
+17.[Netlist](Netlist)
+18.[Conclusion](Conclusion)
+19.[Author](Author)
+20.[Acknowledgement](Acknowledgement)
+21.[References](References)
 # Abstract
 Adders are one of the main components of majority of circuits and find their application in ALU’s, microprocessors, DSP processors.1-Bit Full adder can be used to implement other circuits such as Ripple Carry Adder, Multipliers. A 1-bit full adder using CMOS mirror logic is designed and implemented in this repository. The implementation will be done in 28nm technology node using Synopsys tools. The reference waveforms will be verified with actual waveforms obtained from simulation.
 # Reference Circuit Details
