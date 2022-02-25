@@ -30,5 +30,6 @@ management, analysis, and reporting.All the schematics and blocks used in this c
 ![Carrysymbol](https://user-images.githubusercontent.com/100398507/155667815-d5b2f597-e07a-4115-b6d1-1e104499a803.png)
 # Sum Block
 ![Sumschematic](https://user-images.githubusercontent.com/100398507/155668311-e8b91060-e7ea-4a4d-8631-9db793151c4e.png)
+
 ![sumsymbol](https://user-images.githubusercontent.com/100398507/155668370-a78a676a-e58d-4e42-a403-5d0f282a7f95.png)
 
