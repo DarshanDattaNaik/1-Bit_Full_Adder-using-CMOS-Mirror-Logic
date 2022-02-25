@@ -17,3 +17,8 @@ Note:The inverters shown in the block diagram beloware directly included in the 
 ![image](https://user-images.githubusercontent.com/100398507/155661075-bff4d68a-5d98-4c95-b5b5-e51609a39a95.png)
 # Reference Circuit Waveforms
 ![image](https://user-images.githubusercontent.com/100398507/155661181-18493962-3752-4a6e-bb0b-422d8619e7ea.png)
+# Tools used
+1) Synopsys Custom Compiler: Custom Compiler™ is a fresh, modern solution for full-custom analog, custom digital,
+and mixed-signal integrated circuit (IC) design. As the heart of the Synopsys Custom
+Design Platform, Custom Compiler provides design entry, simulation management and
+analysis, and custom layout editing features.
