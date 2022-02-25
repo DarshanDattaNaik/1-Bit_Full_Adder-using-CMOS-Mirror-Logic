@@ -26,10 +26,10 @@ Adders are one of the main components of majority of circuits and find their app
 A one bit full adder has two circuit blocks, with three inputs and two outputs, one block generates the sum output and the other generates the carry output.
 It contains 28 Transistors.
 The carry output is generated using the expression 
-                                                          Cout = A.B + Cin.(A+B).
+* Cout = A.B + Cin.(A+B).
 The pull-down network of carry block with three inputs consisting of only NMOS is designed based on CMOS logic and the pull-up network consisting of only PMOS will be exact mirror image of the pull-down network. The output obtained will be in inverted form (Cout)’ which will be fed to CMOS inverter to obtain the Cout.
 The sum output is generated using the expression
-                                                      Sum = A.B.Cin + (Cout)’.(A+B+Cin).
+* Sum = A.B.Cin + (Cout)’.(A+B+Cin).
 The sum output can be obtained using the inverted Cout obtained from previous carry block which reduces the number of transistors in the circuit. The pull-down network of sum block with four inputs consisting of only NMOS is designed based on CMOS logic with (Cout)’ as fourth input and the pull-up network consisting of only PMOS will be exact mirror image of the pull-down network. The output obtained will be in inverted form (Sum)’ which will be fed to CMOS inverter to obtain the Sum.
 Note:The inverters shown in the block diagram beloware directly included in the respective Sum block and the Carry block.
 # Block Diagram
@@ -48,16 +48,16 @@ management, analysis, and reporting.All the schematics and blocks used in this c
 # Simulation in Synopsys
 # Carry Block
 ![Carryschematic](https://user-images.githubusercontent.com/100398507/155667781-fd7fb72b-598e-4b7c-a8f6-73b1d528c257.png)
-Fig.1: Carry Block Schematic
+
 
 ![Carrysymbol](https://user-images.githubusercontent.com/100398507/155667815-d5b2f597-e07a-4115-b6d1-1e104499a803.png)
-Fig.2: Carry Block Symbol
+
 # Sum Block
 ![Sumschematic](https://user-images.githubusercontent.com/100398507/155668311-e8b91060-e7ea-4a4d-8631-9db793151c4e.png)
-Fig.3: Sum Block Schematic
+
 
 ![sumsymbol](https://user-images.githubusercontent.com/100398507/155668370-a78a676a-e58d-4e42-a403-5d0f282a7f95.png)
-Fig.4: Sum Block Symbol
+
 # Full Adder Implementation
 ![fulladderschematic](https://user-images.githubusercontent.com/100398507/155669418-3cdd61e0-e87f-426b-bc50-53ff8a11e6a1.png)
 # Parameters set for Voltage Input A
@@ -89,7 +89,11 @@ The Reference circuit of 1-Bit Full Adder using CMOS mirror logic is successfull
 Darshan Datta Naik, RV College of Engineering, Bengaluru
 
 # Acknowledgement
-
+* [Kunal Ghosh Co-founder, VSD Corp.Pvt.Ltd](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+* [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+* [Synopsys India](https://www.synopsys.com/)
+* [Sameer Durgoji,NIT Karnataka](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+* [Chinmay panda,IIT Hyderabad](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
 # References
 1. Suresh Kumar, Paramasivam, “Energy efficient low-power full-adder by 65 nmCMOS”, Concurrency Computat Pract Exper. 2018;e4741. DOI: 10.1002/cpe.4741
 2. Eli Lyons, Vish Ganti, Rich Goldman, Vazgen Melikyan and Hamid Mahmoodi,”Full-Custom Design Project for Digital VLSI and IC Design Courses using Synopsys Generic 90nm CMOS Library” Conference Paper, DOI: 10.1109/MSE.2009.5270834 ,Source: IEEE Xplore, August 2009.
