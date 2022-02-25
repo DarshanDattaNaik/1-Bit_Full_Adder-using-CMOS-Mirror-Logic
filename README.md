@@ -1,6 +1,5 @@
 # 1-Bit_Full_Adder-using-CMOS-Mirror-Logic
 # Abstract
-# Abstract
 Adders are one of the main components of majority of circuits and find their application in ALU’s, microprocessors, DSP processors.1-Bit Full adder can be used to implement other circuits such as Ripple Carry Adder, Multipliers. A 1-bit full adder using CMOS mirror logic is designed and implemented in this repository. The implementation will be done in 28nm technology node using Synopsys tools. The reference waveforms will be verified with actual waveforms obtained from simulation.
 # Reference Circuit Details
 A one bit full adder has two circuit blocks, with three inputs and two outputs, one block generates the sum output and the other generates the carry output.
@@ -23,4 +22,5 @@ Note:The inverters shown in the block diagram beloware directly included in the 
 and mixed-signal integrated circuit (IC) design.Custom Compiler provides a highly productive environment for design entry
 and simulation, with strong features for mixed-signal design, debug, simulation
 management, analysis, and reporting.All the schematics and blocks used in this circuit are designed using this tool
-2)
+2) Synopsys PrimeWave: PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. All the simulations of this project is done using this tool.
+3) Synopsys 28nm PDK: All the components used in the circuit design is utilised from this PDK
