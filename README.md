@@ -26,10 +26,13 @@ management, analysis, and reporting.All the schematics and blocks used in this c
 3) Synopsys 28nm PDK: All the components used in the circuit design is utilised from this PDK
 # Carry Block
 ![Carryschematic](https://user-images.githubusercontent.com/100398507/155667781-fd7fb72b-598e-4b7c-a8f6-73b1d528c257.png)
+Fig.1: Carry Block Schematic
 
 ![Carrysymbol](https://user-images.githubusercontent.com/100398507/155667815-d5b2f597-e07a-4115-b6d1-1e104499a803.png)
+Fig.2: Carry Block Symbol
 # Sum Block
 ![Sumschematic](https://user-images.githubusercontent.com/100398507/155668311-e8b91060-e7ea-4a4d-8631-9db793151c4e.png)
+Fig.3: Sum Block Schematic
 
 ![sumsymbol](https://user-images.githubusercontent.com/100398507/155668370-a78a676a-e58d-4e42-a403-5d0f282a7f95.png)
-
+Fig.4: Sum Block Symbol
