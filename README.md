@@ -71,4 +71,4 @@ Darshan Datta Naik, RV College of Engineering, Bengaluru
 
 # References
 [1]Suresh Kumar, Paramasivam, “Energy efficient low-power full-adder by 65 nmCMOS”, Concurrency Computat Pract Exper. 2018;e4741. DOI: 10.1002/cpe.4741
-[2]	Eli Lyons, Vish Ganti, Rich Goldman, Vazgen Melikyan and Hamid Mahmoodi,”Full-Custom Design Project for Digital VLSI and IC Design Courses using Synopsys Generic 90nm CMOS Library” Conference Paper, DOI: 10.1109/MSE.2009.5270834 ,Source: IEEE Xplore, August 2009
+[2]Eli Lyons, Vish Ganti, Rich Goldman, Vazgen Melikyan and Hamid Mahmoodi,”Full-Custom Design Project for Digital VLSI and IC Design Courses using Synopsys Generic 90nm CMOS Library” Conference Paper, DOI: 10.1109/MSE.2009.5270834 ,Source: IEEE Xplore, August 2009
