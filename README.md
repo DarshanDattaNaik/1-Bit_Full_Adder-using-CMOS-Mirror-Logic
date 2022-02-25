@@ -37,7 +37,7 @@ Fig.3: Sum Block Schematic
 
 ![sumsymbol](https://user-images.githubusercontent.com/100398507/155668370-a78a676a-e58d-4e42-a403-5d0f282a7f95.png)
 Fig.4: Sum Block Symbol
-# Full Adder
+# Full Adder Implementation
 ![fulladderschematic](https://user-images.githubusercontent.com/100398507/155669418-3cdd61e0-e87f-426b-bc50-53ff8a11e6a1.png)
 # Parameters set for Voltage Input A
 ![inpA](https://user-images.githubusercontent.com/100398507/155671972-50584ba5-239b-4400-870c-c0c427e379d4.png)
@@ -67,5 +67,8 @@ The Reference circuit of 1-Bit Full Adder using CMOS mirror logic is successfull
 # Author
 Darshan Datta Naik, RV College of Engineering, Bengaluru
 
+# Acknowledgement
 
-
+# References
+[1]Suresh Kumar, Paramasivam, “Energy efficient low-power full-adder by 65 nmCMOS”, Concurrency Computat Pract Exper. 2018;e4741. DOI: 10.1002/cpe.4741
+[2]	Eli Lyons, Vish Ganti, Rich Goldman, Vazgen Melikyan and Hamid Mahmoodi,”Full-Custom Design Project for Digital VLSI and IC Design Courses using Synopsys Generic 90nm CMOS Library” Conference Paper, DOI: 10.1109/MSE.2009.5270834 ,Source: IEEE Xplore, August 2009
