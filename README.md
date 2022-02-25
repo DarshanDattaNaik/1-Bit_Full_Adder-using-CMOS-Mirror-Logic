@@ -24,3 +24,6 @@ and simulation, with strong features for mixed-signal design, debug, simulation
 management, analysis, and reporting.All the schematics and blocks used in this circuit are designed using this tool
 2) Synopsys PrimeWave: PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. All the simulations of this project is done using this tool.
 3) Synopsys 28nm PDK: All the components used in the circuit design is utilised from this PDK
+# Carry Block
+![Carryschematic](https://user-images.githubusercontent.com/100398507/155667781-fd7fb72b-598e-4b7c-a8f6-73b1d528c257.png)
+![Carrysymbol](https://user-images.githubusercontent.com/100398507/155667815-d5b2f597-e07a-4115-b6d1-1e104499a803.png)
