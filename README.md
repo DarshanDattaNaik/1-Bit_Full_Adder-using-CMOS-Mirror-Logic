@@ -36,3 +36,5 @@ Fig.3: Sum Block Schematic
 
 ![sumsymbol](https://user-images.githubusercontent.com/100398507/155668370-a78a676a-e58d-4e42-a403-5d0f282a7f95.png)
 Fig.4: Sum Block Symbol
+# Full Adder
+![fulladderschematic](https://user-images.githubusercontent.com/100398507/155669418-3cdd61e0-e87f-426b-bc50-53ff8a11e6a1.png)
