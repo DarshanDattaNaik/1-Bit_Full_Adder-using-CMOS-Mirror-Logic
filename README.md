@@ -61,10 +61,11 @@ Fig.4: Sum Block Symbol
 ![Screenshot (217)](https://user-images.githubusercontent.com/100398507/155674267-6ec34aa0-d175-4dbb-b07c-68a8070508ae.png)
 ![Screenshot (218)](https://user-images.githubusercontent.com/100398507/155674286-b06ba779-3f2e-4de2-a9ee-7c2ebc4e1bbc.png)
 
+# Conclusion
+The Reference circuit of 1-Bit Full Adder using CMOS mirror logic is successfully implemented using Synopsys tools and simulation waveforms are obtained. The obtained waveforms match with the reference waveforms
 
-
-
-
+# Author
+Darshan Datta Naik, RV College of Engineering, Bengaluru
 
 
 
