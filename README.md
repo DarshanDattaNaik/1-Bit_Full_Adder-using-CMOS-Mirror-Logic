@@ -39,3 +39,26 @@ Fig.3: Sum Block Schematic
 Fig.4: Sum Block Symbol
 # Full Adder
 ![fulladderschematic](https://user-images.githubusercontent.com/100398507/155669418-3cdd61e0-e87f-426b-bc50-53ff8a11e6a1.png)
+# Parameters set for Voltage Input A
+![inpA](https://user-images.githubusercontent.com/100398507/155671972-50584ba5-239b-4400-870c-c0c427e379d4.png)
+
+# Parameters set for Voltage Input B
+![INPB](https://user-images.githubusercontent.com/100398507/155672013-577dfc85-4c2d-4849-ae77-cb46e8d94806.png)
+
+# Parameters set for Voltage Input C
+![INPC](https://user-images.githubusercontent.com/100398507/155672032-913849d1-3c10-48e5-8ea0-1b827af05cbd.png)
+
+# Parameters set for Voltage Vdd
+![INPVDD](https://user-images.githubusercontent.com/100398507/155672055-4aa3ad3c-9059-4cbd-9c59-78a4d391440a.png)
+
+
+
+
+
+
+
+
+
+
+
+
