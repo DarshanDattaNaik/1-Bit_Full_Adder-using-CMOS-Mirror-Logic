@@ -13,3 +13,7 @@ The sum output can be obtained using the inverted Cout obtained from previous ca
 Note:The inverters shown in the block diagram beloware directly included in the respective Sum block and the Carry block.
 # Block Diagram
 ![image](https://user-images.githubusercontent.com/100398507/155660871-aa7117ce-e985-414c-a283-6d025d51edcf.png)
+# Reference Circuit Diagram
+![image](https://user-images.githubusercontent.com/100398507/155661075-bff4d68a-5d98-4c95-b5b5-e51609a39a95.png)
+# Reference Circuit Waveforms
+![image](https://user-images.githubusercontent.com/100398507/155661181-18493962-3752-4a6e-bb0b-422d8619e7ea.png)
