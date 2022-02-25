@@ -11,7 +11,7 @@
 * [Full_Adder_Implementation](Full_Adder_Implementation)
 * [Parameters_set_for_Voltage_Input_A](Parameters_set_for_Voltage_Input_A)
 * [Parameters_set_for_Voltage_Input_B](Parameters_set_for_Voltage_Input_B)
-* [Parameters_set_for_Voltage_Input C](Parameters_set_for_Voltage_Input C)
+* [Parameters_set_for_Voltage_Input_C](Parameters_set_for_Voltage_Input_C)
 * [Parameters_set_for_Voltage_Vdd](Parameters_set_for_Voltage_Vdd)
 * [Transient_Settings](Transient_Settings)
 * [Output_Waveform](Output_Waveform)
@@ -66,7 +66,7 @@ management, analysis, and reporting.All the schematics and blocks used in this c
 # Parameters_set_for_Voltage_Input_B
 ![INPB](https://user-images.githubusercontent.com/100398507/155672013-577dfc85-4c2d-4849-ae77-cb46e8d94806.png)
 
-# Parameters_set_for_Voltage_Input C
+# Parameters_set_for_Voltage_Input_C
 ![INPC](https://user-images.githubusercontent.com/100398507/155672032-913849d1-3c10-48e5-8ea0-1b827af05cbd.png)
 
 # Parameters_set_for_Voltage_Vdd
