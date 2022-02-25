@@ -55,8 +55,11 @@ Fig.4: Sum Block Symbol
 ![TRANSANALYSIS](https://user-images.githubusercontent.com/100398507/155672668-9069fb8b-33be-487a-9dbc-98dca203d154.png)
 
 # Output Waveform
-![outputwaveform](https://user-images.githubusercontent.com/100398507/155672780-8c2d6d75-13c8-44f0-8083-aa05610eaa9c.png)
+![outputwaveform](https://user-images.githubusercontent.com/100398507/155673142-be600d37-ff06-487c-8ddf-9e7de8e2b689.png)
 
+# Netlist
+![Screenshot (217)](https://user-images.githubusercontent.com/100398507/155674267-6ec34aa0-d175-4dbb-b07c-68a8070508ae.png)
+![Screenshot (218)](https://user-images.githubusercontent.com/100398507/155674286-b06ba779-3f2e-4de2-a9ee-7c2ebc4e1bbc.png)
 
 
 
