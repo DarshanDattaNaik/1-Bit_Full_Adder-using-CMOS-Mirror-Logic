@@ -1,4 +1,30 @@
 # 1-Bit_Full_Adder-using-CMOS-Mirror-Logic
+[Abstract](# Abstract)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Abstract
 Adders are one of the main components of majority of circuits and find their application in ALU’s, microprocessors, DSP processors.1-Bit Full adder can be used to implement other circuits such as Ripple Carry Adder, Multipliers. A 1-bit full adder using CMOS mirror logic is designed and implemented in this repository. The implementation will be done in 28nm technology node using Synopsys tools. The reference waveforms will be verified with actual waveforms obtained from simulation.
 # Reference Circuit Details
