@@ -1,20 +1,20 @@
 # 1-Bit_Full_Adder-using-CMOS-Mirror-Logic
 * [Abstract](Abstract)
-* [Reference Circuit Details](Reference Circuit Details)
+* [Reference_Circuit_Details](Reference_Circuit_Details)
 * [Reference_Circuit_Diagram](Reference_Circuit_Diagram)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Block_Diagram](Block_Diagram)
+* [Reference_Circuit_Waveforms](Reference_Circuit_Waveforms)
+* [Tools_used](Tools_used)
+* [Simulation_in_Synopsys](Simulation_in_Synopsys)
+* [Carry_Block](Carry_Block)
+* [Sum_Block](Sum_Block)
+* [Full_Adder_Implementation](Full_Adder_Implementation)
+* [Parameters_set_for_Voltage_Input_A](Parameters_set_for_Voltage_Input_A)
+* [Parameters_set_for_Voltage_Input_B](Parameters_set_for_Voltage_Input_B)
+* [Parameters_set_for_Voltage_Input C](Parameters_set_for_Voltage_Input C)
+* [Parameters_set_for_Voltage_Vdd](Parameters_set_for_Voltage_Vdd)
+* [Transient_Settings](Transient_Settings)
+* [Output_Waveform](Output_Waveform)
 * [Netlist](Netlist)
 * [Conclusion](Conclusion)
 * [Author](Author)
@@ -22,7 +22,7 @@
 * [References](References)
 # Abstract
 Adders are one of the main components of majority of circuits and find their application in ALU’s, microprocessors, DSP processors.1-Bit Full adder can be used to implement other circuits such as Ripple Carry Adder, Multipliers. A 1-bit full adder using CMOS mirror logic is designed and implemented in this repository. The implementation will be done in 28nm technology node using Synopsys tools. The reference waveforms will be verified with actual waveforms obtained from simulation.
-# Reference Circuit Details
+# Reference_Circuit_Details
 A one bit full adder has two circuit blocks, with three inputs and two outputs, one block generates the sum output and the other generates the carry output.
 It contains 28 Transistors.
 The carry output is generated using the expression 
@@ -32,50 +32,50 @@ The sum output is generated using the expression
 * Sum = A.B.Cin + (Cout)’.(A+B+Cin).
 The sum output can be obtained using the inverted Cout obtained from previous carry block which reduces the number of transistors in the circuit. The pull-down network of sum block with four inputs consisting of only NMOS is designed based on CMOS logic with (Cout)’ as fourth input and the pull-up network consisting of only PMOS will be exact mirror image of the pull-down network. The output obtained will be in inverted form (Sum)’ which will be fed to CMOS inverter to obtain the Sum.
 Note:The inverters shown in the block diagram beloware directly included in the respective Sum block and the Carry block.
-# Block Diagram
+# Block_Diagram
 ![image](https://user-images.githubusercontent.com/100398507/155660871-aa7117ce-e985-414c-a283-6d025d51edcf.png)
 # Reference_Circuit_Diagram
 ![image](https://user-images.githubusercontent.com/100398507/155661075-bff4d68a-5d98-4c95-b5b5-e51609a39a95.png)
-# Reference Circuit Waveforms
+# Reference_Circuit_Waveforms
 ![image](https://user-images.githubusercontent.com/100398507/155661181-18493962-3752-4a6e-bb0b-422d8619e7ea.png)
-# Tools used
+# Tools_used
 1) Synopsys Custom Compiler: Custom Compiler™ is a fresh, modern solution for full-custom analog, custom digital,
 and mixed-signal integrated circuit (IC) design.Custom Compiler provides a highly productive environment for design entry
 and simulation, with strong features for mixed-signal design, debug, simulation
 management, analysis, and reporting.All the schematics and blocks used in this circuit are designed using this tool
 2) Synopsys PrimeWave: PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. All the simulations of this project is done using this tool.
 3) Synopsys 28nm PDK: All the components used in the circuit design is utilised from this PDK
-# Simulation in Synopsys
-# Carry Block
+# Simulation_in_Synopsys
+# Carry_Block
 ![Carryschematic](https://user-images.githubusercontent.com/100398507/155667781-fd7fb72b-598e-4b7c-a8f6-73b1d528c257.png)
 
 
 ![Carrysymbol](https://user-images.githubusercontent.com/100398507/155667815-d5b2f597-e07a-4115-b6d1-1e104499a803.png)
 
-# Sum Block
+# Sum_Block
 ![Sumschematic](https://user-images.githubusercontent.com/100398507/155668311-e8b91060-e7ea-4a4d-8631-9db793151c4e.png)
 
 
 ![sumsymbol](https://user-images.githubusercontent.com/100398507/155668370-a78a676a-e58d-4e42-a403-5d0f282a7f95.png)
 
-# Full Adder Implementation
+# Full_Adder_Implementation
 ![fulladderschematic](https://user-images.githubusercontent.com/100398507/155669418-3cdd61e0-e87f-426b-bc50-53ff8a11e6a1.png)
-# Parameters_set for Voltage Input A
+# Parameters_set_for_Voltage_Input_A
 ![inpA](https://user-images.githubusercontent.com/100398507/155671972-50584ba5-239b-4400-870c-c0c427e379d4.png)
 
-# Parameters set for Voltage Input B
+# Parameters_set_for_Voltage_Input_B
 ![INPB](https://user-images.githubusercontent.com/100398507/155672013-577dfc85-4c2d-4849-ae77-cb46e8d94806.png)
 
-# Parameters set for Voltage Input C
+# Parameters_set_for_Voltage_Input C
 ![INPC](https://user-images.githubusercontent.com/100398507/155672032-913849d1-3c10-48e5-8ea0-1b827af05cbd.png)
 
-# Parameters set for Voltage Vdd
+# Parameters_set_for_Voltage_Vdd
 ![INPVDD](https://user-images.githubusercontent.com/100398507/155672055-4aa3ad3c-9059-4cbd-9c59-78a4d391440a.png)
 
-# Transient Settings
+# Transient_Settings
 ![TRANSANALYSIS](https://user-images.githubusercontent.com/100398507/155672668-9069fb8b-33be-487a-9dbc-98dca203d154.png)
 
-# Output Waveform
+# Output_Waveform
 ![outputwaveform](https://user-images.githubusercontent.com/100398507/155673142-be600d37-ff06-487c-8ddf-9e7de8e2b689.png)
 
 # Netlist
