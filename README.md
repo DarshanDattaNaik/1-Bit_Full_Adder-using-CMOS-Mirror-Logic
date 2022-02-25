@@ -1,6 +1,6 @@
 # 1-Bit_Full_Adder-using-CMOS-Mirror-Logic
 * [Abstract](Abstract)
-* [Reference Circuit Details]( Reference Circuit Details)
+* [Reference Circuit Details](Reference Circuit Details)
 * []()
 * []()
 * []()
