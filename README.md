@@ -51,8 +51,11 @@ Fig.4: Sum Block Symbol
 # Parameters set for Voltage Vdd
 ![INPVDD](https://user-images.githubusercontent.com/100398507/155672055-4aa3ad3c-9059-4cbd-9c59-78a4d391440a.png)
 
+# Transient Settings
+![TRANSANALYSIS](https://user-images.githubusercontent.com/100398507/155672668-9069fb8b-33be-487a-9dbc-98dca203d154.png)
 
-
+# Output Waveform
+![outputwaveform](https://user-images.githubusercontent.com/100398507/155672780-8c2d6d75-13c8-44f0-8083-aa05610eaa9c.png)
 
 
 
